@@ -1,4 +1,4 @@
-# test
-This is a new edit from local computer
+# My very first repo
+I am a nice reader
 
 This is a new example
